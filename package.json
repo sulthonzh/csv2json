@@ -1,0 +1,10 @@
+{
+  "name": "csv2json-cli",
+  "version": "1.0.0",
+  "description": "Convert CSV to JSON from the terminal. Zero deps.",
+  "bin": { "csv2json": "./cli.js" },
+  "scripts": { "test": "node --test test/index.test.mjs" },
+  "keywords": ["csv", "json", "convert", "cli", "csv2json"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
