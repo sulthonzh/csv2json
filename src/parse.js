@@ -75,7 +75,6 @@ function parseLine(line, delimiter) {
 }
 
 function tryParse(val) {
-  if (val === "") return "";
   if (val === "true" || val === "TRUE") return true;
   if (val === "false" || val === "FALSE") return false;
   if (val === "null") return null;
