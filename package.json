@@ -1,5 +1,5 @@
 {
-  "name": "csv2json-cli",
+  "name": "@quadbyte/csv2json-cli",
   "version": "1.0.0",
   "description": "Convert CSV to JSON from the terminal. Zero deps.",
   "bin": {
