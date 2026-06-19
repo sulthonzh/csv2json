@@ -19,12 +19,25 @@
   "engines": {
     "node": ">=18"
   },
-  "files": ["cli.js", "src/", "README.md", "LICENSE"],
+  "files": [
+    "cli.js",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
   "author": {
     "name": "Sulthonzh",
     "email": "sulthonzh@users.noreply.github.com"
   },
   "publishConfig": {
     "access": "public"
+  },
+  "homepage": "https://github.com/sulthonzh/csv2json#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sulthonzh/csv2json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sulthonzh/csv2json/issues"
   }
 }
